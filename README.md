@@ -14,5 +14,6 @@ In this task you can see a simulated bank, that opreates some of the most common
 * Adding an interest to the account
 * Print the account information
 
-Those methods were made by using an ``array`` that contains all the accounts and by creating functions for each methods.
+Those methods were made by using an ``array`` that contains all the accounts at one cell.
+At the second cell there are the current status of the account- ``open`` or ``closed``.
 Most of the functions were made by using ``for`` loops by running on the ``array`` size.
